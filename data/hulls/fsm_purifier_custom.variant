@@ -1,0 +1,26 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 0,
+    "fluxVents": 0,
+    "goalVariant": false,
+    "hullId": "fsm_purifier",
+    "hullMods": [],
+    "quality": 0.0,
+    "variantId": "fsm_purifier_custom",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 004": "cryoflux",
+                "WS 005": "cryoflux",
+                "WS 001": "reaper",
+                "WS 003": "reaper",
+                "WS 006": "heavymg",
+                "WS 007": "heavymg",
+                "WS 002": "vulcan",
+                "WS 000": "vulcan"
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "displayName": "Custom",
+    "fluxCapacitors": 20,
+    "fluxVents": 20,
+    "goalVariant": false,
+    "hullId": "fsm_amarok",
+    "hullMods": [],
+    "quality": 1.0,
+    "variantId": "fsm_amarok_custom",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "ALTERNATING",
+            "weapons": {
+                "WS 001": "gigacannon",
+                "WS 009": "vulcan",
+                "WS 008": "vulcan",
+                "WS 004": "guardian",
+                "WS 002": "hveldriver",
+                "WS 003": "hveldriver",
+                "WS 011": "heatseeker",
+                "WS 010": "heatseeker"
+            }
+        }
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "hullName": "Arbalist",
+    "hullId": "fsm_arbalist",
+    "hullSize": "CRUISER",
+    "style": "MIDLINE",
+    "spriteName": "graphics/ships/fsm_arbalist.png",
+    "height": 250,
+    "width": 200,
+    "center": [
+        110, 125
+    ],
+    "collisionRadius": 150,
+    "coversColor": "",
+    "shieldCenter": [
+        15, 0
+    ],
+    "shieldRadius": 180,
+    "viewOffset": 0,
+    "builtInMods": [
+        "andrada_mods",
+        "solar_shielding",
+        "coherer",
+        "armoredweapons"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 001",
+            "size": "MEDIUM",
+            "type": "COMPOSITE",
+            "mount": "HARDPOINT",
+            "arc": 6,
+            "angle": 0,
+            "locations": [
+                     110,      -14
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "MEDIUM",
+            "type": "COMPOSITE",
+            "mount": "HARDPOINT",
+            "arc": 6,
+            "angle": 0,
+            "locations": [
+                      69,       50
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "MEDIUM",
+            "type": "COMPOSITE",
+            "mount": "HARDPOINT",
+            "arc": 6,
+            "angle": 0,
+            "locations": [
+                    92.5,       19
+            ]
+        },
+        {
+            "id": "WS 006",
+            "size": "LARGE",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 120,
+            "angle": 60,
+            "locations": [
+                      51,       80
+            ]
+        },
+        {
+            "id": "WS 007",
+            "size": "LARGE",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 120,
+            "angle": 300,
+            "locations": [
+                      86,    -64.5
+            ]
+        },
+        {
+            "id": "WS 008",
+            "size": "MEDIUM",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 130,
+            "locations": [
+                     -93,       62
+            ]
+        },
+        {
+            "id": "WS 009",
+            "size": "MEDIUM",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 230,
+            "locations": [
+                   -92.5,      -61
+            ]
+        },
+        {
+            "id": "WS 000",
+            "size": "LARGE",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 360,
+            "angle": 0,
+            "locations": [
+                   -47.5,      -26
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -111.5, 65
+            ],
+            "length": 64,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -114.5, 41
+            ],
+            "length": 64,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -113, 8
+            ],
+            "length": 80,
+            "width": 48,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -115, -27
+            ],
+            "length": 64,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -116.5, -68
+            ],
+            "length": 64,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        }
+    ],
+    "bounds": [
+           105.5,   -122.5,
+           121.5,     -128,
+             152,     -118,
+           151.5,      -93,
+           168.5,    -85.5,
+        
+           168.5,    -13.5,
+              97,     97.5,
+              44,     89.5,
+            31.5,       72,
+             -52,       72,
+        
+           -65.5,     90.5,
+          -114.5,     66.5,
+          -115.5,    -69.5,
+          -119.5,   -117.5,
+             -47,   -126.5,
+        
+             -34,   -106.5,
+              17,   -106.5,
+            73.5,   -127.5
+    # 18 points total.
+    ]
+}

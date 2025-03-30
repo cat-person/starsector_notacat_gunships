@@ -1,0 +1,148 @@
+{
+    "hullName": "Beholder",
+    "hullId": "fsm_beholder",
+    "hullSize": "DESTROYER",
+    "style": "MIDLINE",
+    "spriteName": "graphics/ships/fsm_beholder/fsm_beholder.png",
+    "height": 240,
+    "width": 240,
+    "center": [
+        120, 100
+    ],
+    "collisionRadius": 140,
+    "coversColor": "",
+    "shieldCenter": [
+        30, 0
+    ],
+    "shieldRadius": 160,
+    "viewOffset": 0,
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 001",
+            "size": "LARGE",
+            "type": "ENERGY",
+            "mount": "HARDPOINT",
+            "arc": 6,
+            "angle": 0,
+            "locations": [
+                      95,        0
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "SMALL",
+            "type": "UNIVERSAL",
+            "mount": "HARDPOINT",
+            "arc": 6,
+            "angle": 0,
+            "locations": [
+                      96,     57.5
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "SMALL",
+            "type": "UNIVERSAL",
+            "mount": "HARDPOINT",
+            "arc": 6,
+            "angle": 0,
+            "locations": [
+                      96,    -57.5
+            ]
+        },
+        {
+            "id": "WS 004",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 210,
+            "angle": 90,
+            "locations": [
+                      60,     88.5
+            ]
+        },
+        {
+            "id": "WS 005",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 210,
+            "angle": 270,
+            "locations": [
+                      60,    -88.5
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -89, 6
+            ],
+            "length": 64,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -22, 45.5
+            ],
+            "length": 64,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -89, -6
+            ],
+            "length": 64,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -22, -45.5
+            ],
+            "length": 64,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        }
+    ],
+    "bounds": [
+            84.5,     -118,
+            98.5,    -71.5,
+           111.5,    -69.5,
+             113,    -49.5,
+           133.5,    -41.5,
+        
+           133.5,     41.5,
+             113,     49.5,
+           111.5,     69.5,
+            98.5,     71.5,
+            84.5,      118,
+        
+              30,      113,
+              21,       77,
+           -34.5,       65,
+             -25,     42.5,
+          -100.5,       19,
+        
+           -94.5,        1,
+          -100.5,      -19,
+             -25,    -42.5,
+           -34.5,      -65,
+              21,      -77,
+        
+              30,     -113
+    # 21 points total.
+    ]
+}

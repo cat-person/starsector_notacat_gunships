@@ -1,0 +1,188 @@
+{
+    "hullName": "Gunslinger",
+    "hullId": "fsm_gunslinger",
+    "hullSize": "CRUISER",
+    "style": "MIDLINE",
+    "spriteName": "graphics/ships/fsm_gunslinger.png",
+    "height": 280,
+    "width": 144,
+    "center": [
+        72, 140
+    ],
+    "collisionRadius": 160,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 180,
+    "viewOffset": 0,
+    "builtInWings": [],
+    "builtInMods": ["advancedcore"],
+    "weaponSlots": [
+        {
+            "id": "WS 002",
+            "size": "SMALL",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 220,
+            "angle": 315,
+            "locations": [
+                    75.5,      -62
+            ]
+        },
+        {
+            "id": "WS 006",
+            "size": "SMALL",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 160,
+            "angle": 80,
+            "locations": [
+                    46.5,       56
+            ]
+        },
+        {
+            "id": "WS 007",
+            "size": "MEDIUM",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 220,
+            "angle": 30,
+            "locations": [
+                   119.5,     41.5
+            ]
+        },
+        {
+            "id": "WS 008",
+            "size": "SMALL",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 140,
+            "angle": 135,
+            "locations": [
+                   -89.5,     48.5
+            ]
+        },
+        {
+            "id": "WS 009",
+            "size": "SMALL",
+            "type": "BALLISTIC",
+            "mount": "TURRET",
+            "arc": 140,
+            "angle": -135,
+            "locations": [
+                   -89.5,    -48.5
+            ]
+        },
+        {
+            "id": "WS 000",
+            "size": "LARGE",
+            "type": "BALLISTIC",
+            "mount": "HARDPOINT",
+            "arc": 5,
+            "angle": 0,
+            "locations": [
+                    60.5,       -5
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "LARGE",
+            "type": "COMPOSITE",
+            "mount": "HARDPOINT",
+            "arc": 5,
+            "angle": 0,
+            "locations": [
+                   105.5,       -5
+            ]
+        },
+        {
+            "id": "LB 000",
+            "size": "SMALL",
+            "type": "LAUNCH_BAY",
+            "mount": "HIDDEN",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                     7.5,   -178.5,
+                   -16.5,       42,
+                   -42.5,     42.5
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -114, 47.5
+            ],
+            "length": 64,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -119, 27
+            ],
+            "length": 64,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -118.5, 0
+            ],
+            "length": 80,
+            "width": 48,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -120.5, -25.5
+            ],
+            "length": 64,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -114, -41
+            ],
+            "length": 64,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        }
+    ],
+    "bounds": [
+            23.5,      -65,
+              73,      -71,
+            84.5,      -67,
+            84.5,      -31,
+             138,    -26.5,
+        
+             133,     60.5,
+            93.5,     62.5,
+            32.5,     70.5,
+               2,       47,
+           -51.5,     48.5,
+        
+           -75.5,     67.5,
+            -128,       54,
+          -115.5,       42,
+            -115,      -42,
+          -126.5,      -52,
+        
+             -71,      -70,
+           -60.5,      -65
+    # 17 points total.
+    ]
+}

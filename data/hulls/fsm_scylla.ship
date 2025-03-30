@@ -1,0 +1,175 @@
+{
+    "hullName": "Scylla",
+    "hullId": "fsm_scylla",
+    "hullSize": "CRUISER",
+    "style": "MIDLINE",
+    "spriteName": "graphics/ships/fsm_scylla.png",
+    "height": 190,
+    "width": 144,
+    "center": [
+        80, 95
+    ],
+    "collisionRadius": 110,
+    "coversColor": "",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 120,
+    "viewOffset": 0,
+    "builtInMods": [
+        "armoredweapons"
+    ],
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 001",
+            "size": "SMALL",
+            "type": "BALLISTIC",
+            "mount": "HARDPOINT",
+            "arc": 5,
+            "angle": 0,
+            "locations": [
+                      81,       -6
+            ]
+        },
+        {
+            "id": "WS 004",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 180,
+            "angle": 75,
+            "locations": [
+                      17,       61
+            ]
+        },
+        {
+            "id": "WS 005",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 180,
+            "angle": -75,
+            "locations": [
+                    16.5,    -44.5
+            ]
+        },
+        {
+            "id": "WS 008",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 130,
+            "locations": [
+                     -65,       62
+            ]
+        },
+        {
+            "id": "WS 009",
+            "size": "SMALL",
+            "type": "ENERGY",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 230,
+            "locations": [
+                   -64.5,    -46.5
+            ]
+        },
+        {
+            "id": "WS 000",
+            "size": "SMALL",
+            "type": "BALLISTIC",
+            "mount": "HARDPOINT",
+            "arc": 5,
+            "angle": 0,
+            "locations": [
+                      81,      -34
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "LARGE",
+            "type": "MISSILE",
+            "mount": "HARDPOINT",
+            "arc": 0,
+            "angle": 0,
+            "locations": [
+                   -16.5,       25
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -83.5, 62.5
+            ],
+            "length": 64,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -90, 41.5
+            ],
+            "length": 64,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -88, 18.5
+            ],
+            "length": 80,
+            "width": 48,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -90, -4
+            ],
+            "length": 64,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        },
+        {
+            "location": [
+                -84, -27.5
+            ],
+            "length": 64,
+            "width": 16,
+            "angle": 180,
+            "contrailSize": 64,
+            "style": "MIDLINE"
+        }
+    ],
+    "bounds": [
+             -22,    -55.5,
+              10,    -59.5,
+              22,    -54.5,
+            86.5,    -47.5,
+            92.5,    -43.5,
+        
+              93,        2,
+              87,      7.5,
+            27.5,     12.5,
+              29,     67.5,
+            22.5,     74.5,
+        
+             -38,       72,
+             -71,       77,
+             -90,       47,
+           -90.5,    -29.5,
+           -70.5,      -61
+    # 15 points total.
+    ]
+}
