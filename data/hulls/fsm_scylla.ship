@@ -19,6 +19,9 @@
     "builtInMods": [
         "armoredweapons"
     ],
+    "builtInWeapons": {
+        "WS 002": "fsm_gastraphetes"
+    },
     "builtInWings": [],
     "builtInModules": null,
     "weaponSlots": [
@@ -91,7 +94,7 @@
         {
             "id": "WS 002",
             "size": "LARGE",
-            "type": "MISSILE",
+            "type": "BUILT_IN",
             "mount": "HARDPOINT",
             "arc": 0,
             "angle": 0,

@@ -16,13 +16,16 @@
     ],
     "shieldRadius": 160,
     "viewOffset": 0,
+    "builtInWeapons": {
+        "WS 001": "fsm_death_ray"
+    },
     "builtInWings": [],
     "builtInModules": null,
     "weaponSlots": [
         {
             "id": "WS 001",
             "size": "LARGE",
-            "type": "ENERGY",
+            "type": "BUILT_IN",
             "mount": "HARDPOINT",
             "arc": 6,
             "angle": 0,

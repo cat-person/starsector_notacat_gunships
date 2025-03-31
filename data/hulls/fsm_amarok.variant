@@ -1,10 +1,15 @@
 {
     "displayName": "Custom",
-    "fluxCapacitors": 20,
-    "fluxVents": 20,
+    "fluxCapacitors": 0,
+    "fluxVents": 28,
     "goalVariant": false,
     "hullId": "fsm_amarok",
-    "hullMods": [],
+    "hullMods": [
+        "targetingunit",
+        "hardenedshieldemitter",
+        "expanded_deck_crew",
+        "stabilizedshieldemitter"
+    ],
     "quality": 1.0,
     "variantId": "fsm_amarok_custom",
     "weaponGroups": [
@@ -12,7 +17,7 @@
             "autofire": false,
             "mode": "ALTERNATING",
             "weapons": {
-                "WS 001": "gigacannon",
+                "WS 001": "fsm_craving",
                 "WS 009": "vulcan",
                 "WS 008": "vulcan",
                 "WS 004": "guardian",

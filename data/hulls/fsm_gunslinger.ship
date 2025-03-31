@@ -16,8 +16,15 @@
     ],
     "shieldRadius": 180,
     "viewOffset": 0,
+    "builtInMods": [
+        "advancedcore"
+    ],
+    "builtInWeapons": {
+        "WS 000": "fsm_ebony",
+        "WS 001": "fsm_ivory"
+    },
     "builtInWings": [],
-    "builtInMods": ["advancedcore"],
+    "builtInModules": null,
     "weaponSlots": [
         {
             "id": "WS 002",
@@ -77,7 +84,7 @@
         {
             "id": "WS 000",
             "size": "LARGE",
-            "type": "BALLISTIC",
+            "type": "BUILT_IN",
             "mount": "HARDPOINT",
             "arc": 5,
             "angle": 0,
@@ -88,7 +95,7 @@
         {
             "id": "WS 001",
             "size": "LARGE",
-            "type": "COMPOSITE",
+            "type": "BUILT_IN",
             "mount": "HARDPOINT",
             "arc": 5,
             "angle": 0,

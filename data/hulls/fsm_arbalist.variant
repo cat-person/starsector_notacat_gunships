@@ -1,10 +1,13 @@
 {
     "displayName": "Custom",
     "fluxCapacitors": 0,
-    "fluxVents": 0,
+    "fluxVents": 20,
     "goalVariant": false,
     "hullId": "fsm_arbalist",
-    "hullMods": [],
+    "hullMods": [
+        "heavyarmor",
+        "turretgyros"
+    ],
     "quality": 0.0,
     "variantId": "fsm_arbalist_custom",
     "weaponGroups": [
@@ -12,14 +15,14 @@
             "autofire": false,
             "mode": "ALTERNATING",
             "weapons": {
-                "WS 000": "mjolnir",
-                "WS 008": "dualflak",
-                "WS 009": "dualflak",
+                "WS 000": "fsm_wallambrust",
                 "WS 006": "devastator",
                 "WS 007": "devastator",
                 "WS 002": "jackhammer",
                 "WS 003": "jackhammer",
-                "WS 001": "jackhammer"
+                "WS 001": "jackhammer",
+                "WS 008": "flak",
+                "WS 009": "flak"
             }
         }
     ]

@@ -2,7 +2,7 @@ name,id,tier,rarity,base value,range,damage/second,damage/shot,emp,impact,turn r
 Ebony,fsm_ebony,4,0.1,13000,900,,5000,,1000,5,50,,,,HIGH_EXPLOSIVE,6000,,1,5,1,,0,0,0,14,,1000,,,400,,,,"he18, lowtech_bp, merc, ind",,,,Anti Armor,,,,,,,,,,7001
 Ivory,fsm_ivory,4,0.1,11000,900,,240,10,5,5,45,,,,FRAGMENTATION,80,,,0.3,2,,0,10,1,5,,1000,,,10,,,,"energy18, he17, kinetic17, remnant, rare_bp, hist1t, merc, ind",,,,General,,,,,,,,,,7002
 Wallarmbrust,fsm_wallambrust,4,0.1,17000,900,,1800,,100,25,60,,,,FRAGMENTATION,300,,,6,5,,10,15,3,10,,850,,,10,,,,"energy18, he17, kinetic17, remnant, rare_bp, hist1t, merc, ind",,,,General,,,,,,,,,,7003
-Craving,fsm_craving,4,0.1,16000,2000,,500,250,12,5,50,2,0.2,2,KINETIC,300,,0,1,1,,0,0,0,0,,350,100,10,500,,,"STRIKE, DO_NOT_AIM","strike20, missile20, restricted, codex_unlockable",,,,Guided Torpedo,Slow,Good,,,,,,,TRUE,7004
+Craving,fsm_craving,4,0.1,16000,2000,,500,250,12,5,50,2,0.5,1,KINETIC,300,,0,1,1,,0,0,0,0,,350,100,10,500,,,"STRIKE, DO_NOT_AIM","strike20, missile20, restricted, codex_unlockable",,,,Guided Torpedo,Slow,Good,,,,,,,TRUE,7004
 Gastraphetes,fsm_gastraphetes,4,0.1,9000,2000,,40,40,1,5,40,,,,ENERGY,0,,,1,1,,0,0,0,0,,200,0,10,35,,,"DO_NOT_AIM, STRIKE","strike18, missile15, merc, rare_bp, damage_special, damage_soft_flux",,,,Suppression,Slow,Good,,,,400,,,TRUE,7005
 Repentance,fsm_repentance,4,0.1,7000,450,,100,,3,10,20,90,6,30,ENERGY,50,,,0.05,2,0.05,0,0,0,0,,500,,,,,,,"energy15, SR, restricted, codex_unlockable",,,,General,,,,,,,,,,7006
 Death Ray,fsm_death_ray,4,0.1,19000,700,2000,,2000,0,5,50,,,,ENERGY,,1400,0.5,1,1,4,,,,,5000,,,,,,,FIRE_WHEN_INEFFICIENT,"energy20, beam15, LR, rare_bp, hist1t, merc, ind",,,,Suppression,,,,,,,,,,7007
