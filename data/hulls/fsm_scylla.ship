@@ -1,7 +1,7 @@
 {
     "hullName": "Scylla",
     "hullId": "fsm_scylla",
-    "hullSize": "CRUISER",
+    "hullSize": "DESTROYER",
     "style": "MIDLINE",
     "spriteName": "graphics/ships/fsm_scylla.png",
     "height": 190,
