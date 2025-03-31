@@ -17,7 +17,6 @@
     "shieldRadius": 130,
     "viewOffset": 0,
     "builtInMods": [
-        "safetyoverrides",
         "armoredweapons"
     ],
     "builtInWings": [],
