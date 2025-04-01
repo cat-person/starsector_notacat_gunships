@@ -24,7 +24,7 @@
 				 "blowbackLength":22.0,
 				 "blowbackSpread":15.0,
 				 "particleColor":[125,15,25,105]},	
-	"projectileSpecId":"rift_torp",
+	"projectileSpecId":"fsm_craving_torp",
 	"fireSoundTwo":"rifttorpedo_fire",
 }
 

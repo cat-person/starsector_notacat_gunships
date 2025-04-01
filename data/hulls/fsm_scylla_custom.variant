@@ -1,6 +1,6 @@
 {
     "displayName": "Custom",
-    "fluxCapacitors": 4,
+    "fluxCapacitors": 12,
     "fluxVents": 15,
     "goalVariant": false,
     "hullId": "fsm_scylla",
@@ -20,8 +20,8 @@
                 "WS 005": "lrpdlaser",
                 "WS 008": "pdlaser",
                 "WS 009": "pdlaser",
-                "WS 001": "lightneedler",
-                "WS 000": "lightneedler"
+                "WS 001": "lightac",
+                "WS 000": "lightac"
             }
         }
     ]

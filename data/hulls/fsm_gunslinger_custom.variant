@@ -1,13 +1,12 @@
 {
     "displayName": "Custom",
-    "fluxCapacitors": 0,
+    "fluxCapacitors": 6,
     "fluxVents": 30,
     "goalVariant": false,
     "hullId": "fsm_gunslinger",
     "hullMods": [
-        "converted_bay",
-        "fluxdistributor",
-        "insulatedengine"
+        "hardenedshieldemitter",
+        "fluxdistributor"
     ],
     "quality": 0.0,
     "variantId": "fsm_gunslinger_custom",
@@ -17,17 +16,14 @@
             "mode": "ALTERNATING",
             "weapons": {
                 "WS 000": "fsm_ebony",
-                "WS 008": "vulcan",
-                "WS 009": "vulcan",
                 "WS 003": "railgun",
-                "WS 002": "railgun",
-                "WS 006": "lightdualmg",
                 "WS 001": "fsm_ivory",
-                "WS 007": "gravitonbeam"
+                "WS 007": "heavyburst",
+                "WS 006": "lightac",
+                "WS 002": "lightac",
+                "WS 009": "vulcan",
+                "WS 008": "vulcan"
             }
         }
-    ],
-    "wings": [
-        "xyphos_wing"
     ]
 }

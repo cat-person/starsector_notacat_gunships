@@ -1,13 +1,14 @@
 {
     "displayName": "Custom",
     "fluxCapacitors": 0,
-    "fluxVents": 14,
+    "fluxVents": 19,
     "goalVariant": false,
     "hullId": "fsm_purifier",
     "hullMods": [
         "armoredweapons",
         "autorepair",
-        "missleracks"
+        "missleracks",
+        "heavyarmor"
     ],
     "quality": 0.0,
     "variantId": "fsm_purifier_custom",

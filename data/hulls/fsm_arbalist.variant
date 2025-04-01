@@ -1,12 +1,13 @@
 {
     "displayName": "Custom",
     "fluxCapacitors": 0,
-    "fluxVents": 20,
+    "fluxVents": 30,
     "goalVariant": false,
     "hullId": "fsm_arbalist",
     "hullMods": [
         "heavyarmor",
-        "turretgyros"
+        "turretgyros",
+        "missleracks"
     ],
     "quality": 0.0,
     "variantId": "fsm_arbalist_custom",

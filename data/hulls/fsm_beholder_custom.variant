@@ -1,13 +1,14 @@
 {
     "displayName": "Custom",
-    "fluxCapacitors": 7,
-    "fluxVents": 20,
+    "fluxCapacitors": 5,
+    "fluxVents": 16,
     "goalVariant": false,
     "hullId": "fsm_beholder",
     "hullMods": [
         "heavyarmor",
         "armoredweapons",
-        "high_scatter_amp"
+        "unstable_injector",
+        "solar_shielding"
     ],
     "quality": 0.0,
     "variantId": "fsm_beholder_custom",
@@ -18,9 +19,9 @@
             "weapons": {
                 "WS 001": "fsm_death_ray",
                 "WS 002": "lightneedler",
-                "WS 003": "lightneedler",
-                "WS 004": "lrpdlaser",
-                "WS 005": "lrpdlaser"
+                "WS 005": "pdlaser",
+                "WS 004": "pdlaser",
+                "WS 003": "lightneedler"
             }
         }
     ]
