@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: Kotlin-Runtime.jar LazyLib-Kotlin.jar LazyLib.jar commons-co
+ mpiler-jdk.jar commons-compiler.jar fs.common_obf.jar fs.sound_obf.jar 
+ janino.jar jaxb-api-2.4.0-b180830.0359.jar jinput.jar jogg-0.0.7.jar jo
+ rbis-0.0.15.jar json.jar log4j-1.2.9.jar lwjgl_util.jar lwjgl.jar txw2-
+ 3.0.2.jar starfarer.api.jar starfarer_obf.jar xstream-1.4.10.jar webp-i
+ mageio-0.1.6.jar
+

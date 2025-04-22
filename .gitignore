@@ -1,0 +1,15 @@
+@@ -1,13 +1,29 @@# User-specific stuff #
+.github/**
+out/**
+
+# Build #
+*.zip
+*.jar
+*.class
+
+### macOS ###
+.DS_Store
+
+
+### Mac OS ###
+.DS_Store

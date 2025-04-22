@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Mod:jar">
+    <output-path>$PROJECT_DIR$/jars/</output-path>
+    <root id="archive" name="Mod.jar">
+      <element id="archive" name="Mod.jar">
+        <element id="module-output" name="fsm_gunships" />
+      </element>
+      <element id="library" level="project" name="Kotlin-Runtime" />
+      <element id="library" level="project" name="LazyLib-Kotlin" />
+      <element id="library" level="project" name="commons-compiler-jdk" />
+    </root>
+  </artifact>
+</component>
